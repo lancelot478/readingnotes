@@ -1,4 +1,5 @@
 Shader "Unlit/StentilOutline"
+///使用Stencil制作描边效果
 {
 	Properties
 	{
