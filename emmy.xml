@@ -1,0 +1,19 @@
+<application>
+  <component name="LuaCheckSettings">
+    <option name="luaCheck" value="" />
+    <option name="luaCheckArgs" value="" />
+  </component>
+  <component name="LuaSettings">
+    <option name="additionalSourcesRoot">
+      <array>
+        <option value="$USER_HOME$/ttdbl2_unity/Assets/Scripts" />
+        <option value="$USER_HOME$/ttdbl2_unity/Assets/Scripts" />
+      </array>
+    </option>
+    <option name="enableGeneric" value="true" />
+    <option name="enforceTypeSafety" value="true" />
+    <option name="languageLevel" value="Lua 5.2" />
+    <option name="nilStrict" value="true" />
+    <option name="strictDoc" value="true" />
+  </component>
+</application>
