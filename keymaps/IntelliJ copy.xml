@@ -1,5 +1,8 @@
 <keymap version="1" name="IntelliJ copy" parent="$default">
   <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProjectToolWindow" />
   <action id="AssemblyDiffAction" />
@@ -8,12 +11,15 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome" />
   <action id="FindInPath" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="GotoBookmark1" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
