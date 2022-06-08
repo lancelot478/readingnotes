@@ -5,6 +5,12 @@
   </action>
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProjectToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
   <action id="AssemblyDiffAction" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -12,16 +18,21 @@
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
   <action id="FindInPath" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
