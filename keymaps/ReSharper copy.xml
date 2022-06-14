@@ -13,11 +13,16 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
+  <action id="AssemblyDiffAction" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -30,4 +35,13 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="RiderNuGetToggleDependenciesExpanderAction" />
+  <action id="RiderUnitTestDebugContextTwAction" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
