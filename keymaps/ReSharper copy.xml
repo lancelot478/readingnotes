@@ -2,4 +2,7 @@
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
 </keymap>
