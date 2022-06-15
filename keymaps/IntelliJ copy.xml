@@ -1,6 +1,3 @@
 <keymap version="1" name="IntelliJ copy" parent="$default">
   <action id="ActivateFindToolWindow" />
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
 </keymap>
