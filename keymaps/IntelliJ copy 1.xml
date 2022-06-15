@@ -1,0 +1,7 @@
+<keymap version="1" name="IntelliJ copy 1" parent="$default">
+  <action id="FileChooser.GotoModule" />
+  <action id="GotoBookmark3" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
+</keymap>
