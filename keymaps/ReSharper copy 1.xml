@@ -1,4 +1,4 @@
-<keymap version="1" name="ReSharper copy" parent="ReSharper">
+<keymap version="1" name="ReSharper copy 1" parent="ReSharper">
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
